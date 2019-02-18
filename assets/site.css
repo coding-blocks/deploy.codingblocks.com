@@ -31,6 +31,10 @@ section.offer {
   margin-top: 700px;
 }
 
+section.faq .container {
+  background-color: #f0f1f4;
+}
+
 @media (min-width: 768px) {
   .methodology .card-body.half-length {
     height: 700px;
