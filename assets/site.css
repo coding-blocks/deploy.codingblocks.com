@@ -35,6 +35,11 @@ section.faq .container {
   background-color: #f0f1f4;
 }
 
+.btn-flat-secondary {
+  background: #303d72 !important;
+}
+
+
 @media (min-width: 768px) {
   .methodology .card-body.half-length {
     height: 700px;
